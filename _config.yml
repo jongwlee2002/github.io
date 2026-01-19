@@ -24,7 +24,7 @@ repository: "jongwlee2002/jongwlee2002.github.io"
 # _config.yml (어딘가에 있는 author: 블록을 아래처럼)
 author:
   name: "Jongwon Lee"
-  avatar: "/images/profile.jpg"
+  avatar: "profile.jpg"
   bio: "Undergraduate student in Computer Science at Korea University<br>Undergraduate intern at the Generative Intelligence Lab"
   location: "Seoul, South Korea"
   links: []
